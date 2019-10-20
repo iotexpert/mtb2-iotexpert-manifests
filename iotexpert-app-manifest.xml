@@ -1,6 +1,6 @@
 <apps>
   <app>
-    <name>MTB2Template</name>
+    <name>FreeRTOS Template</name>
     <id>mtb2-template</id>
     <uri>https://github.com/iotexpert/mtb2-freertos-template</uri>
     <description>This empty application provides a template for creating applications using PSoC 6 devices.</description>

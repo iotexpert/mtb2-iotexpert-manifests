@@ -4,5 +4,7 @@
       <uri>https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-app-manifest.xml</uri>
       </app-manifest>
    </app-manifest-list>
+  <board-manifest-list>
+  </board-manifest-list>
 </super-manifest>
 
