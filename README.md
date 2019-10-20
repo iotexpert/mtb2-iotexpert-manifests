@@ -5,4 +5,4 @@ This repository holds the configurations files required to add the IoT Expert st
 When you create a new project it will read the file "manifest.loc" and then add in the supermanifest at that location.
 
 ## Usage
-To use this copy the file manifest.loc to your ~/.modustoolbox directory
+To use this copy the file "manifest.loc" to your ~/.modustoolbox directory
