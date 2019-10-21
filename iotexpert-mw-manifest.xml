@@ -1,0 +1,17 @@
+<middleware>
+  <middleware>
+    <name>ntshell</name>
+    <id>ntshell</id>
+    <uri>https://github.com/iotexpert/mbed-os-ntshell</uri>
+    <desc>NT Shell</desc>
+    <category>iotexpert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>
