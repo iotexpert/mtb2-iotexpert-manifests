@@ -2,7 +2,7 @@
   <middleware>
     <name>ntshell</name>
     <id>ntshell</id>
-    <uri>https://github.com/iotexpert/middlware-ntshell</uri>
+    <uri>https://github.com/iotexpert/middleware-ntshell</uri>
     <desc>NT Shell</desc>
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
