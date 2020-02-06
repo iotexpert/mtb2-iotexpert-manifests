@@ -13,6 +13,9 @@
         <desc>Latest 1.X release</desc>
       </version>
     </versions>
+  </middleware>
+  <middleware>
+
     <name>CY8CKIT-032-OLED</name>
     <id>CY8CKIT-032-OLED</id>
     <uri>https://github.com/iotexpert/cy8ckit-032-oled</uri>
@@ -27,4 +30,5 @@
       </version>
     </versions>
   </middleware>
+
 </middleware>
