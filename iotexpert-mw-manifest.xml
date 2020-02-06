@@ -13,5 +13,18 @@
         <desc>Latest 1.X release</desc>
       </version>
     </versions>
+    <name>CY8CKIT-032-OLED</name>
+    <id>CY8CKIT-032-OLED</id>
+    <uri>https://github.com/iotexpert/cy8ckit-032-oled</uri>
+    <desc>CY8CKIT-032-OLED</desc>
+    <category>iotexpert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+    </versions>
   </middleware>
 </middleware>
