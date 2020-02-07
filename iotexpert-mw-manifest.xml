@@ -15,10 +15,10 @@
     </versions>
   </middleware>
   <middleware>
-    <name>SSD1306-emWin-Config</name>
-    <id>SSD1306-emWin-Config</id>
-    <uri>https://github.com/iotexpert/p6sdk-ssd1306-emWin-config</uri>
-    <desc>SSD1306-emWin-Config</desc>
+    <name>SSD1306-emWin-freertos-config</name>
+    <id>SSD1306-emWin-freertos-config</id>
+    <uri>https://github.com/iotexpert/p6sdk-ssd1306-emWin-freertos-config</uri>
+    <desc>SSD1306-emWin-freertos-config</desc>
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
