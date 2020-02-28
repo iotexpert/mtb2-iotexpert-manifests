@@ -1,4 +1,7 @@
 <super-manifest>
+  <board-manifest-list>
+  </board-manifest-list>
+  
   <app-manifest-list>
     <app-manifest>
       <uri>https://github.com/iotexpert/mtb2-iotexpert-manifests/raw/master/iotexpert-app-manifest.xml</uri>
