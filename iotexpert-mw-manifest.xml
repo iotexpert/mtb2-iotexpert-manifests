@@ -29,4 +29,19 @@
       </version>
     </versions>
   </middleware>
+  <middleware>
+    <name>ST7789V-emWin-freertos-config</name>
+    <id>ST7789V-emWin-freertos-config</id>
+    <uri>https://github.com/iotexpert/p6sdk-st7789v-emWin-freertos-config</uri>
+    <desc>ST7789V-emWin-freertos-config</desc>
+    <category>iotexpert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+    </versions>
+  </middleware>
 </middleware>
