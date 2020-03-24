@@ -30,10 +30,10 @@
     </versions>
   </middleware>
   <middleware>
-    <name>ST7789V-emwin-rtos-config</name>
-    <id>ST7789V-emwin-rtos-config</id>
-    <uri>https://github.com/iotexpert/p6sdk-st7789v-emWin-rtos-config</uri>
-    <desc>ST7789V-emWin-rtos-config</desc>
+    <name>ST7789V-emwin-cyrtos-config</name>
+    <id>ST7789V-emwin-cyrtos-config</id>
+    <uri>https://github.com/iotexpert/p6sdk-st7789v-emWin-cyrtos-config</uri>
+    <desc>ST7789V-emWin-cyrtos-config</desc>
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
