@@ -30,8 +30,8 @@
     </versions>
   </middleware>
   <middleware>
-    <name>ST7789V-emWin-rtos-config</name>
-    <id>ST7789V-emWin-rtos-config</id>
+    <name>ST7789V-emwin-rtos-config</name>
+    <id>ST7789V-emwin-rtos-config</id>
     <uri>https://github.com/iotexpert/p6sdk-st7789v-emWin-rtos-config</uri>
     <desc>ST7789V-emWin-rtos-config</desc>
     <category>iotexpert</category>
