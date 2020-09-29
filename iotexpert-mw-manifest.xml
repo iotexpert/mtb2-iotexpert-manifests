@@ -7,7 +7,7 @@
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
-      <version>
+      <version flow_versions="1.0,2.0" tools_min_version="2.2.0">
         <num>Latest 1.X release</num>
         <commit>master</commit>
         <desc>Latest 1.X release</desc>
@@ -22,8 +22,8 @@
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
-      <version>
-        <num>Latest 1.X release</num>
+      <version flow_versions="1.0,2.0" tools_min_version="2.2.0">
+         <num>Latest 1.X release</num>
         <commit>master</commit>
         <desc>Latest 1.X release</desc>
       </version>
@@ -37,7 +37,7 @@
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
-      <version>
+      <version flow_versions="1.0,2.0" tools_min_version="2.2.0">
         <num>Latest 1.X release</num>
         <commit>master</commit>
         <desc>Latest 1.X release</desc>
