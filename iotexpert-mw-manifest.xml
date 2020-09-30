@@ -7,10 +7,15 @@
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
-      <version flow_versions="1.0,2.0" tools_min_version="2.2.0">
+      <version flow_versions="1.0">
         <num>Latest 1.X release</num>
-        <commit>master</commit>
+        <commit>latestv1.x</commit>
         <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_versions="2.0" tools_min_version="2.2.0">
+        <num>Latest 2.X release</num>
+        <commit>latestv2.x</commit>
+        <desc>Latest 2.X release</desc>
       </version>
     </versions>
   </middleware>
