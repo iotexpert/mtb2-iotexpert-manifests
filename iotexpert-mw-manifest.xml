@@ -7,45 +7,10 @@
     <category>iotexpert</category>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
-      <version flow_versions="1.0">
-        <num>Latest 1.X release</num>
-        <commit>latestv1.x</commit>
-        <desc>Latest 1.X release</desc>
-      </version>
       <version flow_versions="2.0" tools_min_version="2.2.0">
         <num>Latest 2.X release</num>
         <commit>latestv2.x</commit>
         <desc>Latest 2.X release</desc>
-      </version>
-    </versions>
-  </middleware>
-  <middleware>
-    <name>SSD1306-emwin-cyrtos-config</name>
-    <id>SSD1306-emwin-cyrtos-config</id>
-    <uri>https://github.com/iotexpert/p6sdk-ssd1306-emwin-cyrtos-config</uri>
-    <desc>SSD1306-emwin-cyrtos-config</desc>
-    <category>iotexpert</category>
-    <req_capabilities>psoc6</req_capabilities>
-    <versions>
-      <version flow_versions="1.0,2.0" tools_min_version="2.2.0">
-         <num>Latest 1.X release</num>
-        <commit>master</commit>
-        <desc>Latest 1.X release</desc>
-      </version>
-    </versions>
-  </middleware>
-  <middleware>
-    <name>ST7789V-emwin-cyrtos-config</name>
-    <id>ST7789V-emwin-cyrtos-config</id>
-    <uri>https://github.com/iotexpert/p6sdk-st7789v-emWin-cyrtos-config</uri>
-    <desc>ST7789V-emWin-cyrtos-config</desc>
-    <category>iotexpert</category>
-    <req_capabilities>psoc6</req_capabilities>
-    <versions>
-      <version flow_versions="1.0,2.0" tools_min_version="2.2.0">
-        <num>Latest 1.X release</num>
-        <commit>master</commit>
-        <desc>Latest 1.X release</desc>
       </version>
     </versions>
   </middleware>
