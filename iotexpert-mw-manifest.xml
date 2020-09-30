@@ -9,7 +9,7 @@
     <versions>
       <version flow_versions="2.0" tools_min_version="2.2.0">
         <num>Latest 2.X release</num>
-        <commit>latestv2.x</commit>
+        <commit>latest-v2.x</commit>
         <desc>Latest 2.X release</desc>
       </version>
     </versions>
