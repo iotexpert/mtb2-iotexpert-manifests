@@ -19,7 +19,8 @@
       </version>
     </versions>
   </middleware>
-
+  <middleware>
+  
     <name>Bluetooth Utilities</name>
     <id>btutil</id>
     <uri>https://github.com/iotexpert/btutil</uri>
