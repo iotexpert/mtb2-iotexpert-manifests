@@ -18,5 +18,18 @@
         <desc>Latest 2.X release</desc>
       </version>
     </versions>
+    <name>Bluetooth Utilities</name>
+    <id>btutil</id>
+    <uri>https://github.com/iotexpert/btutil</uri>
+    <desc>A library of Bluetooth Debugging Utilties for Cypress PSoC6 Anycloud</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
   </middleware>
 </middleware>
