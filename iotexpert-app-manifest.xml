@@ -25,4 +25,17 @@
      </version>
    </versions>
   </app>
+  <app>
+   <name>IoT Expert BLE Scanner</name>
+   <id>mtb2-anycloud-blescanner</id>
+   <uri>https://github.com/iotexpert/AnyCloudBLEScanner</uri>
+   <description>An AnyCloud based BLE Scanner for PSoC 6 and 43xxxx</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version>
+       <num>Latest 1.X release</num>
+       <commit>part10</commit>
+     </version>
+   </versions>
+  </app>
 </apps>
