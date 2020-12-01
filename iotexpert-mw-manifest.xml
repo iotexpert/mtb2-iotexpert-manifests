@@ -35,4 +35,19 @@
       </version>
     </versions>
   </middleware>
+  <middleware>  
+    <name>IoT Expert Graphics</name>
+    <id>btutil</id>
+    <uri>https://github.com/iotexpert/IoTExpertLogo</uri>
+    <desc>A library of IoT Expert Graphics</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
+  </middleware>
 </middleware>
