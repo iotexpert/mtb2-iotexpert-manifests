@@ -37,7 +37,7 @@
   </middleware>
   <middleware>  
     <name>IoT Expert Graphics</name>
-    <id>btutil</id>
+    <id>iotexpert-graphics</id>
     <uri>https://github.com/iotexpert/IoTExpertLogo</uri>
     <desc>A library of IoT Expert Graphics</desc>
     <category>IoT Expert</category>
