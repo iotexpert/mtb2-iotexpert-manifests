@@ -38,7 +38,7 @@
   <middleware>  
     <name>IoT Expert Graphics</name>
     <id>iotexpert-graphics</id>
-    <uri>https://github.com/iotexpert/IoTExpertLogo</uri>
+    <uri>https://github.com/iotexpert/IoTExpertGraphics</uri>
     <desc>A library of IoT Expert Graphics</desc>
     <category>IoT Expert</category>
     <req_capabilities>psoc6</req_capabilities>
