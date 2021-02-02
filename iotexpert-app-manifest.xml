@@ -126,4 +126,18 @@
     </versions>
   </app>
 
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 7</name>
+    <id>ew21-lesson7</id>
+    <uri>https://github.com/iotexpert/ew21-lesson7</uri>
+    <description>This is Lesson 7 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
 </apps>
