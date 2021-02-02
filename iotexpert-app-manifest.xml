@@ -1,4 +1,5 @@
 <apps>
+  
   <app>
     <name>IoT Expert FreeRTOS Template</name>
     <id>mtb2-freertos-template</id>
@@ -12,6 +13,7 @@
       </version>
     </versions>
   </app>
+  
   <app>
    <name>IoT Expert FreeRTOS NTShell Template</name>
    <id>mtb2-freertos-ntshell-template</id>
@@ -25,6 +27,7 @@
      </version>
    </versions>
   </app>
+  
   <app>
    <name>IoT Expert BLE Scanner</name>
    <id>mtb2-anycloud-blescanner</id>
@@ -38,4 +41,33 @@
      </version>
    </versions>
   </app>
+
+<app>
+    <name>Embedded World 2021 Lesson 1</name>
+    <id>ew21-lesson1</id>
+    <uri>https://github.com/iotexpert/ew21-lesson1</uri>
+    <description>This is Lesson 1 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+<app>
+    <name>Embedded World 2021 Lesson 2</name>
+    <id>ew21-lesson2</id>
+    <uri>https://github.com/iotexpert/ew21-lesson2</uri>
+    <description>This is Lesson 2 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
 </apps>
