@@ -70,4 +70,60 @@
     </versions>
   </app>
 
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 3</name>
+    <id>ew21-lesson3</id>
+    <uri>https://github.com/iotexpert/ew21-lesson3</uri>
+    <description>This is Lesson 3 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+<app>
+    <name>IoT Expert Embedded World 2021 Lesson 4</name>
+    <id>ew21-lesson4</id>
+    <uri>https://github.com/iotexpert/ew21-lesson4</uri>
+    <description>This is Lesson 4 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+  <app>
+    <name>IoT Expert Embedded World 2021 Lesson 5</name>
+    <id>ew21-lesson5</id>
+    <uri>https://github.com/iotexpert/ew21-lesson5</uri>
+    <description>This is Lesson 5 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
+  <app>
+    <name>IoT Expert Embedded World 2021 Lesson 6</name>
+    <id>ew21-lesson6</id>
+    <uri>https://github.com/iotexpert/ew21-lesson6</uri>
+    <description>This is Lesson 6 from Embedded World 2021</description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+
 </apps>
