@@ -54,9 +54,9 @@
   </middleware>
 
 <middleware>
-      <name>TLx493D 3M Magnetic Sensor Library</name>
+      <name>TLx493D 3M Magnetic Sensor</name>
     <id>TLx493D</id>
-    <uri>https://github.com/iotexpert/TLx493D</uri>
+    <uri>https://github.com/iotexpert/TLx493D_3Dmagneitc</uri>
     <desc>A library to interface with Infineon TLx493D 3D magnetic sensors</desc>
     <category>IoT Expert</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -65,6 +65,22 @@
         <num>release-v1.3</num>
         <commit>release-v1.3</commit>
         <desc>release-v1.3</desc>
+      </version>
+    </versions>
+  </middleware>
+
+<middleware>
+      <name>TLE9879 Brushless DC Motor Driver Shield</name>
+    <id>TLE9879_BLDC_Shield</id>
+    <uri>https://github.com/iotexpert/TLE9879_BLDC_Shield</uri>
+    <desc>A library to interface with the Infineon TLE9879 BLDC Motor Driver Shield</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
       </version>
     </versions>
   </middleware>
