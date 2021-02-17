@@ -94,9 +94,9 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
-        <num>master</num>
-        <commit>master</commit>
-        <desc>master</desc>
+        <num>main</num>
+        <commit>main</commit>
+        <desc>main</desc>
       </version>
     </versions>
   </middleware>
