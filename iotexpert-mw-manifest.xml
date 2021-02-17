@@ -85,4 +85,20 @@
     </versions>
   </middleware>
 
+<middleware>
+      <name>WS2812 LED Strip Library</name>
+    <id>WS2812_LED</id>
+    <uri>https://github.com/iotexpert/ws2812_led</uri>
+    <desc>A library to interface with 2812 LED strips</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
+      </version>
+    </versions>
+  </middleware>
+
 </middleware>
