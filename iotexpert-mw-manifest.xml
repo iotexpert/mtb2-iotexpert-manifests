@@ -62,9 +62,9 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
-        <num>release-v1.3</num>
-        <commit>release-v1.3</commit>
-        <desc>release-v1.3</desc>
+        <num>master</num>
+        <commit>master</commit>
+        <desc>master</desc>
       </version>
     </versions>
   </middleware>
