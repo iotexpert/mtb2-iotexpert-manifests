@@ -56,7 +56,7 @@
 <middleware>
       <name>TLx493D 3M Magnetic Sensor</name>
     <id>TLx493D</id>
-    <uri>https://github.com/iotexpert/TLx493D_3Dmagneitc</uri>
+    <uri>https://github.com/iotexpert/TLx493D_3Dmagnetic</uri>
     <desc>A library to interface with Infineon TLx493D 3D magnetic sensors</desc>
     <category>IoT Expert</category>
     <req_capabilities>psoc6</req_capabilities>
