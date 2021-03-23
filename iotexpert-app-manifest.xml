@@ -21,7 +21,7 @@
    <description>This template provide a starting point for FreeRTOS projects.  Including a starting blinking LED task and the ntshell task</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
-     <version flow_versions="2.0">
+     <version flow_version="2.0">
        <num>Latest 1.X release</num>
        <commit>master</commit>
      </version>
@@ -35,7 +35,7 @@
    <description>An AnyCloud based BLE Scanner for PSoC 6 and 43xxxx</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
-     <version flow_versions="2.0">
+     <version flow_version="2.0">
        <num>Latest 1.X release</num>
        <commit>part10</commit>
      </version>
