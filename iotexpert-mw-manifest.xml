@@ -101,4 +101,20 @@
     </versions>
   </middleware>
 
+  <middleware>
+    <name>WiFi Helper Utilties</name>
+    <id>wifi_helper</id>
+    <uri>https://github.com/iotexpert/wifi_helper</uri>
+    <desc>A library WiFi Helper utilities (e.g. aton)</desc>
+    <category>IoT Expert</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>main</num>
+        <commit>main</commit>
+        <desc>main</desc>
+      </version>
+    </versions>
+  </middleware>
+
 </middleware>
