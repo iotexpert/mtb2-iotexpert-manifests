@@ -6,12 +6,8 @@
         <commit>main</commit>
         <dependees>
           <dependee>
-            <id>abstraction-rtos</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>wifi-mw-core</id>
-            <commit>latest-v3.X</commit>
+            <id>wifi-connection-manager</id>
+            <commit>latest-v2.X</commit>
           </dependee>
         </dependees>
       </version>
