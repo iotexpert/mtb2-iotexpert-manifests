@@ -6,7 +6,7 @@
         <commit>main</commit>
         <dependees>
           <dependee>
-            <id>wifi-connection-manager</id>
+            <id>wcm</id>
             <commit>latest-v2.X</commit>
           </dependee>
         </dependees>
